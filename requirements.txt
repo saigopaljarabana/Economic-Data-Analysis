@@ -1,6 +1,8 @@
 pandas
 numpy
 matplotlib
+bokeh
 plotly
 nbformat==4.2.0
 fredapi
+setuptools
